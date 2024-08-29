@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-E-mart/static/css/main.4d83a9b7.css",
-    "main.js": "/react-E-mart/static/js/main.c479adfc.js",
+    "main.js": "/react-E-mart/static/js/main.3ae6c7c5.js",
     "static/media/fa-solid-900.ttf": "/react-E-mart/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/fa-brands-400.ttf": "/react-E-mart/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
     "static/media/bootstrap-icons.woff?": "/react-E-mart/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
@@ -14,10 +14,10 @@
     "static/media/fa-v4compatibility.woff2": "/react-E-mart/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/react-E-mart/index.html",
     "main.4d83a9b7.css.map": "/react-E-mart/static/css/main.4d83a9b7.css.map",
-    "main.c479adfc.js.map": "/react-E-mart/static/js/main.c479adfc.js.map"
+    "main.3ae6c7c5.js.map": "/react-E-mart/static/js/main.3ae6c7c5.js.map"
   },
   "entrypoints": [
     "static/css/main.4d83a9b7.css",
-    "static/js/main.c479adfc.js"
+    "static/js/main.3ae6c7c5.js"
   ]
 }
