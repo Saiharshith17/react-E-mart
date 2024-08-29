@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-E-mart/static/css/main.4d83a9b7.css",
+    "main.js": "/react-E-mart/static/js/main.8f773cd2.js",
+    "static/media/fa-solid-900.ttf": "/react-E-mart/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
+    "static/media/fa-brands-400.ttf": "/react-E-mart/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/bootstrap-icons.woff?": "/react-E-mart/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/fa-solid-900.woff2": "/react-E-mart/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
+    "static/media/bootstrap-icons.woff2?": "/react-E-mart/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/fa-brands-400.woff2": "/react-E-mart/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
+    "static/media/fa-regular-400.ttf": "/react-E-mart/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
+    "static/media/fa-regular-400.woff2": "/react-E-mart/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
+    "static/media/fa-v4compatibility.ttf": "/react-E-mart/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react-E-mart/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
+    "index.html": "/react-E-mart/index.html",
+    "main.4d83a9b7.css.map": "/react-E-mart/static/css/main.4d83a9b7.css.map",
+    "main.8f773cd2.js.map": "/react-E-mart/static/js/main.8f773cd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d83a9b7.css",
+    "static/js/main.8f773cd2.js"
+  ]
+}
